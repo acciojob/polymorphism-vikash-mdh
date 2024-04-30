@@ -9,7 +9,7 @@ public class Main {
         System.out.println(ans+" "+ ans1+" "+ans3);
 
     }
-   static class Product{
+    public static class Product{
         public int Product(int x, int y) {
             return x*y;
         }
